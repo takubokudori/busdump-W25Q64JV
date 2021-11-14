@@ -1,0 +1,8 @@
+[package]
+name = "busdump-w25q64jv"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serialport = "4.0.0"
+anyhow = "1.0.45"
